@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=AUAV_X05_CAM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_ESC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_FMUESP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_GPS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_IMU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_NRF24.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_PMW3901.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_ToF.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AUAV_X05_CAM.SchDoc|FileName=AUAV_X05_UWB.SchDoc|SheetNumber= 
